@@ -1,6 +1,6 @@
 {
   "name": "typescript-nodejs-project",
-  "version": "7.0.0",
+  "version": "0.0.0",
   "files": [
     "dist",
     "src"
@@ -37,8 +37,6 @@
     "prettier": "2.2.1",
     "rimraf": "^3.0.2",
     "source-map-support": "^0.5.19",
-    "throw-expression": "^1.0.2",
-    "ts-is-present": "^1.2.1",
     "ts-jest": "^26.4.4",
     "typed-nodejs-assert": "^1.1.0",
     "typescript": "^4.4.0-beta"
