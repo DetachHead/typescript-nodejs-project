@@ -20,7 +20,6 @@
     "type": "git",
     "url": "https://github.com/DetachHead/typescript-nodejs-project.git"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@types/node": "^14.14.20",
