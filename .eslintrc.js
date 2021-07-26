@@ -38,5 +38,6 @@ module.exports = {
         '@typescript-eslint/no-invalid-this': 'error',
         'require-await': 'error',
         '@typescript-eslint/no-floating-promises': 'error',
+        'no-return-await': 'error',
     },
 }
