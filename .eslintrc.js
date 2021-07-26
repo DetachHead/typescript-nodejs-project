@@ -35,5 +35,6 @@ module.exports = {
                 classPropertiesAllowed: true,
             },
         ],
+        '@typescript-eslint/no-invalid-this': 'error',
     },
 }
