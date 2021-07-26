@@ -17,7 +17,7 @@ module.exports = {
         sourceType: 'module',
         project: './tsconfig.json',
     },
-    plugins: ['@typescript-eslint', 'eslint-plugin-expect-type'],
+    plugins: ['eslint-plugin-prefer-arrow', '@typescript-eslint', 'eslint-plugin-expect-type'],
     rules: {
         'linebreak-style': ['error', 'unix'],
         quotes: ['error', 'single', { avoidEscape: true }],
@@ -29,5 +29,11 @@ module.exports = {
         'eslint-comments/no-unused-disable': 'error',
         'eslint-comments/require-description': 'error',
         eqeqeq: 'error',
+        'prefer-arrow/prefer-arrow-functions': [
+            'error',
+            {
+                classPropertiesAllowed: true,
+            },
+        ],
     },
 }
