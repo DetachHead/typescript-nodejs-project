@@ -40,5 +40,6 @@ module.exports = {
         '@typescript-eslint/no-floating-promises': ['error', { ignoreIIFE: true }],
         'no-return-await': 'error',
         '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
+        '@typescript-eslint/no-explicit-any': 'error',
     },
 }
