@@ -6,5 +6,12 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
-    "eslint.validate": ["typescript"]
+    "eslint.validate": ["typescript"],
+    "git.allowForcePush": true,
+    "git.autofetch": "all",
+    "git.autoStash": true,
+    "git.pruneOnFetch": true,
+    "git.rebaseWhenSync": true,
+    "git.suggestSmartCommit": false,
+    "git.supportCancellation": true
 }
