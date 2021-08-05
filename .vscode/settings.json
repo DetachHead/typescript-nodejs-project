@@ -13,5 +13,6 @@
     "git.pruneOnFetch": true,
     "git.rebaseWhenSync": true,
     "git.suggestSmartCommit": false,
-    "git.supportCancellation": true
+    "git.supportCancellation": true,
+    "diffEditor.ignoreTrimWhitespace": false
 }
