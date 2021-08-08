@@ -7,7 +7,6 @@ module.exports = {
     extends: [
         'eslint:recommended',
         'plugin:@typescript-eslint/recommended',
-        'plugin:eslint-plugin-expect-type/recommended',
         'prettier',
         'plugin:eslint-comments/recommended',
     ],
@@ -17,12 +16,11 @@ module.exports = {
         sourceType: 'module',
         project: './tsconfig.json',
     },
-    plugins: ['eslint-plugin-prefer-arrow', '@typescript-eslint', 'eslint-plugin-expect-type'],
+    plugins: ['eslint-plugin-prefer-arrow', '@typescript-eslint'],
     rules: {
         'linebreak-style': ['error', 'unix'],
         quotes: ['error', 'single', { avoidEscape: true }],
         semi: ['error', 'never'],
-        'expect-type/expect': 'error',
         '@typescript-eslint/ban-types': 'off',
         'spaced-comment': 'error',
         '@typescript-eslint/no-throw-literal': 'error',
