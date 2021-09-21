@@ -7,7 +7,7 @@
 !/.idea/git_toolbox_prj.xml
 !/.idea/modules.xml
 !/.idea/prettier.xml
-!/.idea/typescript-nodejs-project.iml
+!/.idea/*.iml
 !/.idea/vcs.xml
 !/.idea/jsonSchemas.xml
 /dist/
