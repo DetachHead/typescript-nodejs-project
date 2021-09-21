@@ -1,13 +1,2 @@
 /node_modules/
-/.idea/**
-!/.idea/codeStyles/*
-!/.idea/inspectionProfiles/*
-!/.idea/jsLinters/*
-!/.idea/externalDependencies.xml
-!/.idea/git_toolbox_prj.xml
-!/.idea/modules.xml
-!/.idea/prettier.xml
-!/.idea/*.iml
-!/.idea/vcs.xml
-!/.idea/jsonSchemas.xml
 /dist/
