@@ -15,5 +15,6 @@
     "git.rebaseWhenSync": true,
     "git.suggestSmartCommit": false,
     "git.supportCancellation": true,
+    "git.useCommitInputAsStashMessage": true,
     "diffEditor.ignoreTrimWhitespace": false
 }
