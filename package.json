@@ -11,7 +11,8 @@
     "lint:fix": "npm run lint:check -- --fix",
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
-    "build": "rimraf ./dist && tsc -p tsconfig.build.json"
+    "build": "rimraf ./dist && tsc -p tsconfig.build.json",
+    "main": "npm run build && node dist/main.js"
   },
   "keywords": [],
   "author": "detachhead",
