@@ -72,7 +72,7 @@
         "noImplicitOverride": true,
         "exactOptionalPropertyTypes": true,
         "allowUnreachableCode": false,
-        "stripInternal": true
+        "stripInternal": false //https://github.com/microsoft/TypeScript/issues/45307
     },
     "include": ["src", "*.eslintrc.js", "jest.config.ts"]
 }
