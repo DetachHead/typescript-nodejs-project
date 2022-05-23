@@ -4,4 +4,4 @@ export {}
 function foo(bar) {} // error
 
 
-pm // no error, as the module is
+pm // no error

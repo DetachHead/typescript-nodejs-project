@@ -13,7 +13,7 @@
     "url": "https://github.com/DetachHead/typescript-nodejs-project.git"
   },
   "devDependencies": {
-    "typescript": "^4.4.0-beta"
+    "typescript": "^4.8.0-dev.20220522"
   },
   "dependencies": {
     "postman-sandbox": "github:DetachHead/postman-sandbox#103a3b021f139eb8a1b722a2b5911503836cbe2f"

@@ -2,6 +2,7 @@
     "compilerOptions": {
         "strict": true ,
         "skipLibCheck": true, 
+        "noEmit": true,
         "types": ["postman-sandbox"] 
     },
     "include": ["src/strict.ts"]
