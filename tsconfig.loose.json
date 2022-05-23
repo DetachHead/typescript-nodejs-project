@@ -1,7 +1,0 @@
-{
-    "compilerOptions": {
-        "strict": false
-    },
-    "extends": "./tsconfig.json",
-    "include": ["src/loose.ts"]
-}

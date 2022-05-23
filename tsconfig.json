@@ -1,9 +1,6 @@
 {
     "compilerOptions": {
-        "strict": true ,
-        "skipLibCheck": true, 
-        "noEmit": true,
-        "types": ["postman-sandbox"] 
+        "target": "es3"
     },
-    "include": ["src/strict.ts"]
+    "include": ["src/main.ts"]
 }
