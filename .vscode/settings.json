@@ -17,5 +17,6 @@
     "git.supportCancellation": true,
     "git.useCommitInputAsStashMessage": true,
     "diffEditor.ignoreTrimWhitespace": false,
-    "files.eol": "\n"
+    "files.eol": "\n",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
 }
