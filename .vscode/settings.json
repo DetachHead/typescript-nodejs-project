@@ -18,5 +18,5 @@
     "git.useCommitInputAsStashMessage": true,
     "diffEditor.ignoreTrimWhitespace": false,
     "files.eol": "\n",
-    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "typescript.enablePromptUseWorkspaceTsdk": true
 }
