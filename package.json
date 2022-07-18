@@ -24,7 +24,7 @@
     "url": "https://github.com/DetachHead/typescript-nodejs-project.git"
   },
   "devDependencies": {
-    "@detachhead/eslint-config": "^0.0.12",
+    "@detachhead/eslint-config": "^0.0.14",
     "@jest/types": "^27.2.5",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.10.5",
