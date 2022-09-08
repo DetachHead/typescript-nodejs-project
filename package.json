@@ -7,7 +7,7 @@
   ],
   "scripts": {
     "test": "jest",
-    "lint:check": "eslint . --ext .ts",
+    "lint:check": "eslint .",
     "lint:fix": "npm run lint:check -- --fix",
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
@@ -24,9 +24,10 @@
     "url": "https://github.com/DetachHead/typescript-nodejs-project.git"
   },
   "devDependencies": {
-    "@detachhead/eslint-config": "^0.0.14",
+    "@detachhead/eslint-config": "^0.0.17",
     "@jest/types": "^27.2.5",
     "@trivago/prettier-plugin-sort-imports": "^3.3.0",
+    "@types/eslint": "^8.4.6",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.10.5",
     "@types/power-assert": "^1.5.3",
