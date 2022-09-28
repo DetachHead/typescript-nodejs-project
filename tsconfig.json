@@ -74,5 +74,5 @@
         "allowUnreachableCode": false,
         "stripInternal": false //https://github.com/microsoft/TypeScript/issues/45307
     },
-    "include": ["src/**/*.ts", "jest.config.ts", "*.eslintrc.js"]
+    "include": ["jest.config.ts", "*.eslintrc.js"]
 }
