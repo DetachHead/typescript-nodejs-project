@@ -14,7 +14,7 @@
     "build": "rimraf ./dist && tsc -p src/tsconfig.json",
     "typecheck": "npm run build && tsc -p tsconfig.json && tsc -p tsconfig.lib-check.json",
     "check": "npm run typecheck && npm run lint:check && npm run format:check && npm run test",
-    "main": "npm run build && node dist/main.js"
+    "main": "npm run build && node --enable-source-maps dist/main.js"
   },
   "keywords": [],
   "author": "detachhead",
@@ -37,7 +37,6 @@
     "power-assert": "^1.6.1",
     "prettier": "^2.4.1",
     "rimraf": "^3.0.2",
-    "source-map-support": "^0.5.19",
     "ts-jest": "^27.0.6",
     "ts-node": "^10.2.1",
     "typed-nodejs-assert": "^1.1.0",
