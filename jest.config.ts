@@ -12,5 +12,6 @@ const config: InitialOptionsTsJest = {
             },
         },
     },
+    detectOpenHandles: true,
 }
 export default config
