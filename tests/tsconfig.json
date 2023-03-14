@@ -3,5 +3,6 @@
     "compilerOptions": {
         "types": ["@types/node", "@types/jest", "ts-jest"]
     },
-    "include": ["**/*.ts"]
+    "include": ["**/*.ts"],
+    "exclude": []
 }
