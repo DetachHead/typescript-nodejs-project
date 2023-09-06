@@ -20,5 +20,9 @@
     "files.eol": "\n",
     "typescript.enablePromptUseWorkspaceTsdk": true,
     "git.useEditorAsCommitInput": false,
-    "editor.acceptSuggestionOnCommitCharacter": false
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "jest.autoRun": {},
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/github-workflow.json": ".github/workflows/*.yaml"
+    }
 }

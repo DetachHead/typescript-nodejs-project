@@ -3,6 +3,7 @@
         "orta.vscode-jest",
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
+        "redhat.vscode-yaml",
         "mhutchie.git-graph"
     ]
 }
