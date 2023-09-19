@@ -41,6 +41,6 @@
     "ts-jest": "^29.0.5",
     "ts-node": "^10.9.1",
     "typed-nodejs-assert": "^1.1.0",
-    "typescript": "^4.4.0-beta"
+    "typescript": "^5.2.2"
   }
 }
