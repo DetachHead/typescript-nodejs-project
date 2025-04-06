@@ -4,6 +4,8 @@
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
         "redhat.vscode-yaml",
-        "mhutchie.git-graph"
+        "mhutchie.git-graph",
+        "shd101wyy.markdown-preview-enhanced",
+        "github.vscode-github-actions"
     ]
 }
