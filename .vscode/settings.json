@@ -29,5 +29,6 @@
         "https://json.schemastore.org/github-issue-config.json": "./.github/ISSUE_TEMPLATE/config.yml"
     },
     "chat.commandCenter.enabled": false,
-    "telemetry.feedback.enabled": false
+    "telemetry.feedback.enabled": false,
+    "terminal.integrated.scrollback": 10000
 }
