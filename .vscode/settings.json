@@ -30,5 +30,6 @@
     },
     "chat.commandCenter.enabled": false,
     "telemetry.feedback.enabled": false,
-    "terminal.integrated.scrollback": 10000
+    "terminal.integrated.scrollback": 10000,
+    "workbench.editor.revealIfOpen": true
 }
