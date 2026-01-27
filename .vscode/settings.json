@@ -39,6 +39,6 @@
         "PATH": "${workspaceFolder}/node_modules/.bin:${env:PATH}"
     },
     "terminal.integrated.env.linux": {
-        "PATH": ${workspaceFolder}/node_modules/.bin:${env:PATH}"
+        "PATH": "${workspaceFolder}/node_modules/.bin:${env:PATH}"
     }
 }
