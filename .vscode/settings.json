@@ -32,6 +32,7 @@
     "telemetry.feedback.enabled": false,
     "terminal.integrated.scrollback": 10000,
     "workbench.editor.revealIfOpen": true,
+    "terminal.integrated.detectLocale": "off",
     "terminal.integrated.env.windows": {
         "PATH": "${workspaceFolder}/node_modules/.bin;${env:PATH}"
     },
