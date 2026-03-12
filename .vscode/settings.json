@@ -28,7 +28,7 @@
         // https://github.com/redhat-developer/vscode-yaml/issues/1022
         "https://json.schemastore.org/github-issue-config.json": "./.github/ISSUE_TEMPLATE/config.yml"
     },
-    "chat.commandCenter.enabled": false,
+    "chat.disableAIFeatures": true,
     "telemetry.feedback.enabled": false,
     "terminal.integrated.scrollback": 10000,
     "workbench.editor.revealIfOpen": true,
