@@ -33,6 +33,7 @@
     "terminal.integrated.scrollback": 10000,
     "workbench.editor.revealIfOpen": true,
     "terminal.integrated.detectLocale": "off",
+    "explorer.compactFolders": false,
     "terminal.integrated.env.windows": {
         "PATH": "${workspaceFolder}/node_modules/.bin;${env:PATH}"
     },
